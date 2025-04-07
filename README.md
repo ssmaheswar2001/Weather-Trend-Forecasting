@@ -9,6 +9,17 @@ This project provides tools for analyzing weather data and forecasting temperatu
 - **Anomaly Detection:** Identifying unusual or extreme weather events through rolling calculations and z-scores.
 - **Temperature Forecasting:** Predicting daily temperature using multiple models, including SARIMA, Linear Regression, Random Forest, XGBoost, and an ensemble approach.
 
+## Folder Structure
+Weather_Trend-Forecasting
+├── Notebooks
+│   └── analysis.py
+├── Visualizations
+│   └── imgs
+├── data
+│   ├── data.csv
+│   └── report.pdf
+└── README.md
+
 ## Features
 
 ### Data Normalization
